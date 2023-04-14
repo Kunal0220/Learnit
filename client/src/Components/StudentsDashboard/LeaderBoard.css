@@ -1,0 +1,15 @@
+.leaderTitle{
+    width: 30rem;
+    text-align: center;
+    font-weight: bold
+}
+.leaderimg{
+    height: 4.5rem;
+    border-radius: 50%;
+    margin-left: -3rem;
+    
+}
+ p{
+    text-align: start;  
+
+}

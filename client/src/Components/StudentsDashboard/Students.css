@@ -1,0 +1,7 @@
+.courseMain{
+    color: rgb(57, 56, 56);
+}
+.courses{
+    width: 60rem;
+    flex-wrap: wrap;
+}
