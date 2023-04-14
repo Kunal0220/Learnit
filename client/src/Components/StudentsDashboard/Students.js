@@ -1,8 +1,6 @@
 import React from 'react'
 import Badge from 'react-bootstrap/Badge';
 
-
-
 import './Students.css'
 import Course from '../Courses/Course';
 import LeaderBoard from './LeaderBoard';

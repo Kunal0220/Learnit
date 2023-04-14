@@ -1,11 +1,11 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Students from './Components/StudentsDashboard/Students';
+import Teacher from './Components/TeachersDashboard/Teacher'
 
 function App() {
   return (
     <div className="App">
-     <Students/>
+      <Teacher/>
     </div>
   );
 }
