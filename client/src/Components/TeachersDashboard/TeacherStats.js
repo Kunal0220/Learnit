@@ -11,7 +11,7 @@ function TeacherStats(props) {
         color:'aliceblue',
         borderRadius:'5px'
         }}>
-        <Card.Title>{props.title}</Card.Title>
+        <Card.Title style={{textAlign:'start'}}>{props.title}</Card.Title>
         <Card.Text>
         {props.summary} <br /><br />
         {props.update}
