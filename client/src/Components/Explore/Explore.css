@@ -1,0 +1,26 @@
+.exploreCourse{
+    width: 20rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 20px;
+}
+.newCourseP{
+    margin-left: 1rem;
+}
+.newCourseMain:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+#exploreSearch{
+    width: 70rem;
+    height: 3rem;
+    border-radius: 50px;
+    border: none;
+    border: 1px solid black;
+    margin-left: 1rem;
+
+}
+#exploreSearch::placeholder{
+    color: grey;
+    padding: 1rem;
+}

@@ -8,7 +8,7 @@ import './Login.css'
 
 import {  signInWithEmailAndPassword   } from 'firebase/auth';
 import { auth } from '../../firebase';
-import { NavLink, useNavigate } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 
 function Login() {
   const navigate = useNavigate();
@@ -21,7 +21,7 @@ function Login() {
       .then((userCredential) => {
           // Signed in
           const user = userCredential.user;
-          navigate("/")
+          navigate("/teachers")
           console.log(user);
       })
       .catch((error) => {
