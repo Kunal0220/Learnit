@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53a0841d.css",
+    "main.js": "/static/js/main.3a2a8c12.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/java.jpg": "/static/media/java.38adab0f5b150d020bd4.jpg",
+    "static/media/stats.jpg": "/static/media/stats.d6cd2aac981302e5efa7.jpg",
+    "static/media/web.jpg": "/static/media/web.f5f4b84159f2f1bacfca.jpg",
+    "static/media/crypt.jpg": "/static/media/crypt.eee5fca5274cfee82a20.jpg",
+    "static/media/woman1.png": "/static/media/woman1.a2ff92eff506b5344daf.png",
+    "static/media/man1.png": "/static/media/man1.9d11a319c1631776b5f6.png",
+    "static/media/python.jpg": "/static/media/python.aa1e66257babd3495e92.jpg",
+    "static/media/women2.png": "/static/media/women2.3401a4663c5d318b7caf.png",
+    "static/media/andriod.jpg": "/static/media/andriod.89529d3056a48c19c8ab.jpg",
+    "static/media/backendHero.jpg": "/static/media/backendHero.b13a1d124d50a045ae27.jpg",
+    "static/media/theforevergoldphp.jpg": "/static/media/theforevergoldphp.040739abd6fa96caec4d.jpg",
+    "static/media/logo.png": "/static/media/logo.262946508b5603b487e3.png",
+    "index.html": "/index.html",
+    "main.53a0841d.css.map": "/static/css/main.53a0841d.css.map",
+    "main.3a2a8c12.js.map": "/static/js/main.3a2a8c12.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a0841d.css",
+    "static/js/main.3a2a8c12.js"
+  ]
+}
