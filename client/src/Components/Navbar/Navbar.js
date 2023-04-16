@@ -12,7 +12,7 @@ function Navbars() {
         <Nav className="me-auto">
           <Nav.Link href="/student">Student?</Nav.Link>
           <Nav.Link href="/teacher">Teacher?</Nav.Link>
-          <Nav.Link href="/">Explore</Nav.Link>
+          <Nav.Link href="/explore">Explore</Nav.Link>
           <Nav.Link href="/log" style={{marginLeft:'57rem'}}>Login/Signup</Nav.Link>
 
         </Nav>

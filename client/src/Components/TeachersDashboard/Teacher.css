@@ -2,8 +2,10 @@
     text-align: start;
 }
 .stats{
-    /* width: 70rem; */
+    background-color: aliceblue;
+    box-shadow: 2px 2px 2px aliceblue;
 }
+
 .dashboardText{
     width: 10rem;
     margin: auto;
@@ -16,4 +18,37 @@
 .courseDetails:hover{
     opacity: .6;
     cursor: pointer;
+}
+.coursesLink{
+    text-decoration: none;
+    color: coral;
+}
+.income{
+    width: 40rem;
+    height: 13rem;
+    background-color: rgb(23, 49, 111);
+    color: aliceblue;
+    text-align: center;
+    margin-top: 1rem;
+    margin-left: 1.6rem;
+    font-weight: 400;
+    border-radius: 10px;
+    box-shadow: 3px 1px 5px 3px grey;
+}
+
+span{
+    color: coral;
+    text-decoration: underline;
+}
+
+.newCourse{
+    display: flex;
+    flex-direction: column;
+    width: 18rem;
+    padding: 1rem;
+    border: 1px solid grey;
+    margin-bottom: 1rem;
+}
+.newCourse input{
+    margin: 1rem;
 }
